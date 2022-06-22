@@ -1,7 +1,7 @@
 ---
 title: "Jenkins Test"
 description: "DNS迁移"
-date: 2022-06-22T15:44:24+08:00
+date: 2022-06-22T17:17:24+08:00
 draft: true
 categories:
     - 博客
