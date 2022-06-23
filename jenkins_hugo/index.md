@@ -1,6 +1,6 @@
 ---
-title: "使用Jenkins部署"
-description: "测试"
+title: "使用Jenkins实现自动化部署Hugo博客"
+description: "通过jenkins帮助实现如何自动化部署Hugo的博客"
 date: 2022-06-23T11:03:24+08:00
 draft: true
 categories:
